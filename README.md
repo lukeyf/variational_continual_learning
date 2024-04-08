@@ -1,1 +1,10 @@
-# variational_continual_learning
+# AutoVCL: Self-Balancing Enhancement for Variational Continual Learning
+
+## Overview
+
+This repository hosts the "AutoVCL: Self-Balancing Enhancement for Variational Continual Learning" project, a detailed assignment from the "Uncertainty in Deep Learning" course at the University of Oxford. The project builds upon the core concepts of **Variational Continual Learning**, aiming to refine and advance the methodology.
+
+## Results
+
+The root directory contains notebooks designed to reproduce the relavent original VCL results and to facilitate further exploration of a self-balancing Variational Continual Learning framework. For visualizations of our findings, please refer to the two PDF documents located in the results directory [here](results/pdf) as GitHub does not render the plots directly in the notebooks.
+
