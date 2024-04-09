@@ -6,5 +6,5 @@ This repository hosts the "AutoVCL: Self-Balancing Enhancement for Variational C
 
 ## Results
 
-The root directory contains notebooks designed to reproduce the relavent original VCL results and to facilitate further exploration of a self-balancing Variational Continual Learning framework. For visualizations of our findings, please refer to the two PDF documents located in `results/pdf` as GitHub does not render the plots directly in the notebooks.
+The root directory contains notebooks designed to reproduce the relavent original VCL results and to facilitate further exploration of a self-balancing Variational Continual Learning framework.
 
